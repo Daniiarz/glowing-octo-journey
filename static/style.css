@@ -1,0 +1,20 @@
+.post {
+    background-color: #000000;
+    color: white;
+    font-size: 30px;
+}
+.post-description {
+    font-size: 25px;
+}
+.post-date {
+    font-size: 15px;
+}
+.post-image {
+    width: 400px;
+    height: 400px;
+}
+.site-title {
+    font-size: 20px;
+    color: aqua;
+    margin-right: 400px;
+}
